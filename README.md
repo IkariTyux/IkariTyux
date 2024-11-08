@@ -10,6 +10,3 @@ BTW, i'm French.
 
 ## In Training
 ![learn](img/learn.png)
-
-## Will learn later
-![learn-later](img/learn-later.png)
