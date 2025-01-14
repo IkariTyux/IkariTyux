@@ -1,6 +1,4 @@
-# IkariTyux
-Hello there,
-
+## Hello There,
 I'm a junior DevOps from France.<br/>
 I like to experiment with Linux and other related technologies.<br/>
 Here, you will find my dotfiles, scripts and DevOps projects.<br/>
